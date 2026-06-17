@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Anjali 👋
+### Frontend Developer | Designer | A+ Certified
 
-<!--
-**designs-by-anjali/designs-by-anjali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an *A+ grade Web Developer* who also creates content, presentations & designs. One-stop solution for your web + creative needs ✨
 
-Here are some ideas to get you started:
+## 🚀 Featured Web Project
+### 🍎 Apple.com Homepage Clone
+*Live Demo:* https://designs-by-anjali.github.io/apple-clone/
+- Built with HTML5, CSS3 & JavaScript for menu toggle 
+- 100% Responsive & Pixel-perfect design
+- *Secured Outstanding (A+) Grade* in VIMS Satna Internship | Feb-Mar 2026
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📜 [View My A+ Web Development Certificate](./certificate.png)
+
+## 🎨 Other Skills & Work Samples
+
+### ✍️ Content Writing
+[View My Articles & Blogs](PASTE_YAHA_GOOGLE_DRIVE_LINK)
+- Blog posts, Lifestyle articles, Product reviews, personal stories, Engaging storytelling
+
+### 📊 MS Office Expert
+[Project Reports & Presentations](PASTE_YAHA_GOOGLE_DRIVE_LINK)
+- *MS Word:* Creative designs, Flyers, College ads, Greetings, Documentation
+- *PowerPoint:* Pitch decks, Project presentations, Business presentations
+- *Design:* Basic graphics, Social media posts, Youtube thumbnails 
+- *Excel:* Data entry, Tables, Basic formulas
+
+## 🛠️ Tech Stack
+`HTML5` `CSS3` `JavaScript` `Responsive Design` `GitHub` `Excel` `MS Word` `PowerPoint` `Content Writing`
+
+## 📫 Available for Hire
+Open for freelance projects after Aug 2026. Let's build something great together!
